@@ -1,0 +1,29 @@
+.navbar-custom {
+    background-color: #f8f9fa; /* Adjust the background color to match your design */
+    border-bottom: 1px solid #ddd;
+}
+.navbar-nav .nav-link {
+    color: #333; 
+}
+.navbar-nav .nav-link:hover {
+    color: #007bff; 
+}
+.navbar-custom .navbar-nav .nav-item + .nav-item {
+    border-left: 1px solid #ddd;
+    padding-left: 10px;
+}
+.navbar-nav{
+    font-size: 15px;
+}
+
+/* exmedia text decoration */
+.h1class{
+    font-family: 'Georgia', serif;
+    font-size: 4em;
+    color: #333;
+}
+.pclass{
+    font-family:'Arial' , sans-serif;
+    font-size: 1.2em;
+    color: #555;
+}
